@@ -1,4 +1,5 @@
 # Overview of git command
+<img src="./Github.png" width="800">
 ## init a git repo
 git init
 
